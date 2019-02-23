@@ -1,2 +1,5 @@
-# Yocto-Install-Instructions
-Personal notes on how to build zedboard linux image (or at least as far as I got) for when I forget in 2 weeks time
+1. Ubuntu VM
+2. update, upgrade
+2. `sudo apt-get install gawk wget git-core diffstat unzip texinfo gcc-multilib \
+     build-essential chrpath socat cpio python python3 python3-pip python3-pexpect \
+     xz-utils debianutils iputils-ping libsdl1.2-dev xterm`
